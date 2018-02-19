@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">3c4bccce0f905300897ab97ce1050e7c</grid_canvas>
+        <height>4</height>
+        <portal_widget display_value="Created 2018-02-16 06:37:46">cd4b00460f145300897ab97ce1050ef5</portal_widget>
+        <posx>6</posx>
+        <posy>29</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-16 14:37:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd4b00460f145300897ab97ce1050efd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3c4bccce0f905300897ab97ce1050e7c</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_cd4b00460f145300897ab97ce1050efd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-16 14:37:46</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>
